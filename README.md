@@ -16,7 +16,7 @@ Power BI (Data Modeling, DAX, Visualization)
 ## Dashboard Preview
 
 ### Sales Overview
-![Overview](PASTE_LINK_1)
+![Overview](https://github.com/hafiza-data/sales-analysis-dashboard/raw/main/sales_overview.png)
 
 ### Product Analysis
 ![Product](PASTE_LINK_2)
