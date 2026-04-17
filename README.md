@@ -22,7 +22,7 @@ Power BI (Data Modeling, DAX, Visualization)
 ![Product](https://github.com/hafiza-data/sales-analysis-dashboard/raw/main/sales_product.png)
 
 ### Customer Analysis
-![Customer]()
+![Customer](https://github.com/hafiza-data/sales-analysis-dashboard/raw/main/sales_customer.png)
 
 ## Key Insights
 - Sales performance varies across different product categories
@@ -34,4 +34,4 @@ Power BI (Data Modeling, DAX, Visualization)
 - Project documentation (PDF)
 
 ## Data Source
-Sample sales dataset in CSV format used for analysis and dashboard creation.
+-Sample sales dataset in CSV format used for analysis and dashboard creation.
